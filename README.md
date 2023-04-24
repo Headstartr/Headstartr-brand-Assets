@@ -1,1 +1,1 @@
-# brand-assets
+# Brand Guidelines
